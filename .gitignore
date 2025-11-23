@@ -1,0 +1,30 @@
+# Arquivos Python temporários
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Arquivos de ambiente virtual
+venv/
+env/
+.venv/
+
+# Arquivos do VS Code
+.vscode/
+*.swp
+*.swo
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+*.log
+
+# Arquivos de dados temporários
+*.tmp
+*.temp
+
+# Arquivos gráficos gerados (opcional)
+*.png
+*.jpg
